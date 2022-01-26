@@ -1,0 +1,19 @@
+.contenedor {
+  padding-top:5%;
+  border-radius:15px;
+}
+
+.btnDecorado {
+  border: 1px solid #2e518b;
+  padding: 10px;
+  background-color: #2e518b;
+  color: #ffffff;
+  text-decoration: none;
+  font-family: 'Helvetica', sans-serif;
+  border-radius: 10px;
+  height:140px;
+  width:120px;
+  margin-right:5%;
+  margin-bottom:3%;
+}
+

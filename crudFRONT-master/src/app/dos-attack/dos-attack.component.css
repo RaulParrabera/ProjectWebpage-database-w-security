@@ -1,0 +1,18 @@
+.form {
+  background-color: #9FE3E4;
+  height: 80%;
+  width: 70%;
+  margin-top: 3%;
+  margin-right: 5%;
+  margin-left: 5%;
+  margin-bottom: 3%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-right: 2%;
+  padding-left: 2%;
+  border-radius: 25px;
+}
+
+.title {
+  font-weight: bold;
+}
